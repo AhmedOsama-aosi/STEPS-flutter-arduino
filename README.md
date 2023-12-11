@@ -1,3 +1,4 @@
+<!---
 # `flutter_bluetooth_serial_example`
 
 Example application demonstrates key features of the `flutter_bluetooth_serial` plugin:
@@ -89,4 +90,4 @@ The example uses Celsius degree, which was chosen because it utilizes standard c
 
 Project of the Arduino side could be found in `/arduino` folder, but there is a note: **the code is prepared for testing in certain environment** and will not work without its hardware side (termometers, pH meter). If you can alter the real termometer code for example for random data generator or your own inputs. 
 
-
+--->
