@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="172.347" height="172.428" viewBox="0 0 172.347 172.428">
+  <g id="sun" transform="translate(-447.773 -38.151)">
+    <rect id="Rectangle_" data-name="Rectangle " width="100" height="100" rx="50" transform="translate(485 73)" fill="#ff9c00"/>
+    <path id="Polygon_" data-name="Polygon " d="M6.109,0l6.109,26H0Z" transform="translate(619.907 118.643) rotate(89)" fill="#f89b08"/>
+    <path id="Polygon_2" data-name="Polygon " d="M6.109,0l6.109,26H0Z" transform="translate(612.143 88.126) rotate(70)" fill="#f89b08"/>
+    <path id="Polygon_3" data-name="Polygon " d="M6.109,0l6.109,26H0Z" transform="matrix(-0.358, 0.934, -0.934, -0.358, 616.342, 149.774)" fill="#f89b08"/>
+    <path id="Polygon_4" data-name="Polygon " d="M6.109,0l6.109,26H0Z" transform="matrix(-0.656, 0.755, -0.755, -0.656, 602.016, 178.238)" fill="#f89b08"/>
+    <path id="Polygon_5" data-name="Polygon " d="M6.109,0l6.109,26H0Z" transform="translate(577.542 199.285) rotate(153)" fill="#f89b08"/>
+    <path id="Polygon_6" data-name="Polygon " d="M6.109,0l6.109,26H0Z" transform="translate(547.67 210.366) rotate(179)" fill="#f89b08"/>
+    <path id="Polygon_7" data-name="Polygon " d="M6.109,0l6.109,26H0Z" transform="translate(516.503 208.693) rotate(-163)" fill="#f89b08"/>
+    <path id="Polygon_8" data-name="Polygon " d="M6.109,0l6.109,26H0Z" transform="translate(487.058 196.624) rotate(-145)" fill="#f89b08"/>
+    <path id="Polygon_9" data-name="Polygon " d="M6.109,0l6.109,26H0Z" transform="matrix(-0.515, -0.857, 0.857, -0.515, 463.643, 175.084)" fill="#f89b08"/>
+    <path id="Polygon_10" data-name="Polygon " d="M6.109,0l6.109,26H0Z" transform="matrix(-0.174, -0.985, 0.985, -0.174, 450.018, 146.562)" fill="#f89b08"/>
+    <path id="Polygon_11" data-name="Polygon " d="M6.109,0l6.109,26H0Z" transform="translate(447.773 114.999) rotate(-78)" fill="#f89b08"/>
+    <path id="Polygon_12" data-name="Polygon " d="M6.109,0l6.109,26H0Z" transform="matrix(0.545, -0.839, 0.839, 0.545, 456.576, 84.022)" fill="#f89b08"/>
+    <path id="Polygon_13" data-name="Polygon " d="M6.109,0l6.109,26H0Z" transform="translate(476.371 60.175) rotate(-41)" fill="#f89b08"/>
+    <path id="Polygon_14" data-name="Polygon " d="M6.109,0l6.109,26H0Z" transform="translate(503.649 43.166) rotate(-16)" fill="#f89b08"/>
+    <path id="Polygon_15" data-name="Polygon " d="M6.109,0l6.109,26H0Z" transform="matrix(0.993, 0.122, -0.122, 0.993, 535.626, 38.151)" fill="#f89b08"/>
+    <path id="Polygon_16" data-name="Polygon " d="M6.109,0l6.109,26H0Z" transform="translate(566.563 45.087) rotate(27)" fill="#f89b08"/>
+    <path id="Polygon_17" data-name="Polygon " d="M6.109,0l6.109,26H0Z" transform="matrix(0.669, 0.743, -0.743, 0.669, 593.283, 61.649)" fill="#f89b08"/>
+    <path id="Rectangle_2" data-name="Rectangle " d="M50,0a50,50,0,0,1,50,50c0,27.614-41.755,23.638-61.357,7.259S22.386,0,50,0Z" transform="translate(485 73)" fill="#ffa81e"/>
+  </g>
+</svg>
